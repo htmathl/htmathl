@@ -7,4 +7,4 @@
 ### 👨‍🎓 Sobre mim
 - 20 anos
 - Cursando Sistemas da Informação
-- Estagiando no IPREM
+- Estagiando em IPREM
