@@ -5,7 +5,7 @@
 </div>
 
 ### 👨‍🎓 Sobre mim
-- 20 anos
+- 21 anos
 - Cursando Sistemas da Informação
 - Estagiando em IPREM
 - Técnico em informática
