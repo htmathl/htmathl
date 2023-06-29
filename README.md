@@ -8,3 +8,4 @@
 - 20 anos
 - Cursando Sistemas da Informação
 - Estagiando em IPREM
+- Técnico em informática
