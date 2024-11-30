@@ -32,7 +32,7 @@ Atualmente estou trabalhando em projetos de **ciência de dados e desenvolviment
 
 ## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htmathl&layout=compact&theme=radical&langs_count=6)
 
 ---
 
