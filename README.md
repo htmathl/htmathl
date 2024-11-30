@@ -18,8 +18,6 @@ Sou um entusiasta de tecnologia e estudante de **Sistemas de Informação** na *
 
 ---
 
-## 🛠️ Habilidades e Tecnologias
-
 ## 🛠️ Linguagens e Ferramentas
 
 ### Linguagens
