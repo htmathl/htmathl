@@ -92,12 +92,5 @@ Atualmente estou trabalhando em projetos de **ciência de dados e desenvolviment
 
 ---
 
-## 🌐 Como me encontrar
-
-- 💼 [LinkedIn](https://www.linkedin.com)
-- 📧 **[Seu email](mailto:seuemail@gmail.com)**  
-
----
-
 Obrigado por visitar meu perfil! Vamos construir algo incrível!
 
